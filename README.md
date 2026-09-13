@@ -1,3 +1,5 @@
+![Predictive Maintenance Dashboard](screenshots/dashboard.png)
+
 # Predictive Maintenance System
 
 A machine learning based predictive maintenance system that predicts whether an industrial machine is likely to fail using sensor parameters such as temperature, rotational speed, torque, and tool wear.
